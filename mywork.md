@@ -65,6 +65,8 @@
 ![ChamberStatus](./assets/img/chamberstatus.png)
 ![ChamberController](./assets/img/chambercontroller.png)
 ![ChamberStatus](./assets/img/airlogger.png)
+![LoggerPCB](./assets/img/airloggerpcb.png)
+![Loggerhardware](./assets/img/loggerhardware.png)
 
 
 [back](./)
