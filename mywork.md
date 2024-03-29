@@ -1,11 +1,11 @@
 ## Columbia University Information Technology
 **Contributions**
-* System Administration
-* Technical Support
-* Cloud Security Screening
-* Data Security
-* Research Software Consultant
-* Collaborate with HPC Team
+- System Administration
+- Technical Support
+- Cloud Security Screening
+- Data Security
+- Research Software Consultant
+- Collaborate with HPC Team
 
 **Development**
 * Documentation & Trainings
@@ -31,10 +31,16 @@
 
 ## NCSU Phytotron
 **Contributions**
-* System Administration
-* Developing Custom Controller
-* Data Management
-* Sensor Systems
+- System Administration
+  - Redhat Linux
+  - Debian
+  - mySQL
+- Technical Support
+  - Data Management - Data transfer & visualization
+- Developing Custom Controller
+- Networking
+- Sensor Systems
+  - Research, develop, & deploy air quality sensor systems
 
 **Development**
 - Google App script-based request
