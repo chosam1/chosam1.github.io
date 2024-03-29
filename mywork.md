@@ -18,6 +18,7 @@
 - System Administration
 - Sensor Systems
 - Technical Support
+  - AWS Workspaces
   - Data Reporting
   - InfluxDB Management
   - Account Management
