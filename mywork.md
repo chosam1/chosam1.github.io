@@ -17,6 +17,8 @@ Development
   - Developed air qualtiy sensor loggers
   - Developed custom PWM boards
  
+### Small image
 
+![AirQuality](./ThirdFloorMonitor.png)
 
 [back](./)
