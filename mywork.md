@@ -1,4 +1,4 @@
-## Columbia University Information System
+## Columbia University Information Technology
 Contributions
 * System Administration
 * Technical Support
