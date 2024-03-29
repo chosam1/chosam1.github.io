@@ -50,5 +50,8 @@ Development
 ## Images
 ![AirQualityMonitor](./assets/img/ThirdFloorMonitor.png)
 ![ChamberStatus](./assets/img/chamberstatus.png)
+![ChamberController](./assets/img/chambercontroller.png)
+![ChamberStatus](./assets/img/airlogger.png)
+
 
 [back](./)
