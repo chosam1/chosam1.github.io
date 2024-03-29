@@ -2,6 +2,9 @@
 **Contributions**
 - System Administration
 - Technical Support
+  - Hardware & Software updates
+  - Firmware updates
+  - Asset management
 - Cloud Security Screening
 - Data Security
 - Research Software Consultant
