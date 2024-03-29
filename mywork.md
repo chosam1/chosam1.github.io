@@ -2,6 +2,7 @@
 Contributions
 * System Administration
 * Technical Support
+* Cloud Security Screening
 * Data Security
 * Research Software Consultant
 * Collaborate with HPC Team
@@ -15,6 +16,7 @@ Contributions
 * Data Reporting Support
 * Sensor Systems
 * Technical Support
+* Visitor Management System
 * Project Management
 
 Development
@@ -39,13 +41,14 @@ Development
 - Python-base air quality data logger
 - Various PHP-based dashboards
   - Real-time air quality monitoring
+- Cron jobs for data transfer
 - PCB Boards
   - Developed air qualtiy sensor loggers
   - Developed custom PWM boards
 
 
 ## Images
-![AirQuality](./ThirdFloorMonitor.png)
-![AirQuality](./chamberstatus.png)
+![AirQualityMonitor](./ThirdFloorMonitor.png)
+![ChamberStatus](./chamberstatus.png)
 
 [back](./)
