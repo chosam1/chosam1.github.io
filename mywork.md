@@ -1,5 +1,5 @@
 ## Columbia University Information Technology
-Contributions
+**Contributions**
 * System Administration
 * Technical Support
 * Cloud Security Screening
@@ -7,11 +7,11 @@ Contributions
 * Research Software Consultant
 * Collaborate with HPC Team
 
-Development
+**Development**
 * Documentation & Trainings
 
 ## Upward Farms
-Contributions
+**Contributions**
 * System Administration
 * Data Reporting Support
 * Sensor Systems
@@ -19,7 +19,7 @@ Contributions
 * Visitor Management System
 * Project Management
 
-Development
+**Development**
 - Supplemental Monitoring
   - Air: Temperaturem, CO2, & Humidity
   - Water: Dissolved Oxygen (DO), Conductivity (EC), pH levels, & Level
@@ -27,13 +27,13 @@ Development
 - Improved RFID-based Inventory Tracking System
 
 ## NCSU Phytotron
-Contributions
+**Contributions**
 * System Administration
 * Developing Custom Controller
 * Data Management
 * Sensor Systems
 
-Development
+**Development**
 - Google App script-based request
   - Automated Google form onSubmit to email equipment project requests
 - Python-based Microcontroller
