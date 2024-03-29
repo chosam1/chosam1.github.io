@@ -11,13 +11,16 @@
 * Documentation & Trainings
 
 ## Upward Farms
-**Contributions**
-* System Administration
-* Data Reporting Support
-* Sensor Systems
-* Technical Support
-* Visitor Management System
-* Project Management
+<details open>
+  <summary>**Contributions**</summary>
+  <br>
+  * System Administration
+  * Data Reporting Support
+  * Sensor Systems
+  * Technical Support
+  * Visitor Management System
+  * Project Management
+</details>
 
 **Development**
 - Supplemental Monitoring
