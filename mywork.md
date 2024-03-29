@@ -16,10 +16,15 @@
   <br>
   <ul>
     <li>System Administration</li>
-    <li>Data Reporting Support</li>
     <li>Sensor Systems</li>
-    <li>Technical Support</li>
-    <li>Visitor Management System</li>
+    <li>Technical Support
+        <ul>
+          <li>Data Reporting</li>
+          <li>Account Management</li>
+          <li>Company Tech Stack</li>
+          <li>Visitor Management System</li>
+        </ul>
+    </li>
     <li>Project Management</li>
   </ul>
 </details>
