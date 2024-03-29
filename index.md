@@ -1,10 +1,5 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[About Me](./aboutme.html). 
+[About Me](./aboutme.html)
+[My Work](./mywork.html)
 
 There should be whitespace between paragraphs.
 
