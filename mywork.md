@@ -18,6 +18,7 @@ Development
   - Developed custom PWM boards
 
 
-  ![AirQuality](./ThirdFloorMonitor.png)
+
+![AirQuality](./ThirdFloorMonitor.png)
 
 [back](./)
