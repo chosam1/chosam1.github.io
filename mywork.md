@@ -12,7 +12,7 @@ Contributions
 Development
 - Python-based microcontroller
 - Various PHP-based dashboards
-  -Real-time air quality monitoring
+  - Real-time air quality monitoring
 - PCB Boards
   - Developed air qualtiy sensor loggers
   - Developed custom PWM boards
