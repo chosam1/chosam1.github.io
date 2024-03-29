@@ -48,7 +48,7 @@ Development
 
 
 ## Images
-![AirQualityMonitor](./ThirdFloorMonitor.png)
-![ChamberStatus](./chamberstatus.png)
+![AirQualityMonitor](./assets/img/ThirdFloorMonitor.png)
+![ChamberStatus](./assets/img/chamberstatus.png)
 
 [back](./)
