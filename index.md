@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./aboutme.html). 
+[About Me](./aboutme.html). 
 
 There should be whitespace between paragraphs.
 
