@@ -48,7 +48,7 @@
 **Development**
 - Google App script-based request
   - Automated Google form onSubmit to email equipment project requests
-- Python-based Microcontroller
+- Python-based RaspberryPi Microcontroller
   - Microcontroller that controls temperature, CO2, humidity, & light
 - Python-base air quality data logger
 - Various PHP-based dashboards
