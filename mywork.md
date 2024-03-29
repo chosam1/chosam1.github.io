@@ -1,6 +1,28 @@
-## Upward Farms
+## Columbia University Information System
+Contributions
+* System Administration
+* Technical Support
+* Data Security
+* Research Software Consultant
+* Collaborate with HPC Team
 
-My work at UF
+Development
+* Documentation & Trainings
+
+## Upward Farms
+Contributions
+* System Administration
+* Data Reporting Support
+* Sensor Systems
+* Technical Support
+* Project Management
+
+Development
+- Supplemental Monitoring
+  - Air: Temperaturem, CO2, & Humidity
+  - Water: Dissolved Oxygen (DO), Conductivity (EC), pH levels, & Level
+  - Power: Current (A)
+- Improved RFID-based Inventory Tracking System
 
 ## NCSU Phytotron
 Contributions
