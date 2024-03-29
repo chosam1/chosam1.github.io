@@ -13,12 +13,11 @@ Development
 - Python-based microcontroller
 - Various PHP-based dashboards
   - Real-time air quality monitoring
+  - ![AirQuality](./ThirdFloorMonitor.png)
 - PCB Boards
   - Developed air qualtiy sensor loggers
   - Developed custom PWM boards
- 
-### Small image
 
-![AirQuality](./ThirdFloorMonitor.png)
+
 
 [back](./)
