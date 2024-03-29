@@ -11,23 +11,16 @@
 * Documentation & Trainings
 
 ## Upward Farms
-<details>
-  <summary><strong>Contributions</summary></strong>
-  <br>
-  <ul>
-    <li>System Administration</li>
-    <li>Sensor Systems</li>
-    <li>Technical Support
-        <ul>
-          <li>Data Reporting</li>
-          <li>Account Management</li>
-          <li>Company Tech Stack</li>
-          <li>Visitor Management System</li>
-        </ul>
-    </li>
-    <li>Project Management</li>
-  </ul>
-</details>
+**Contributions**
+- System Administration
+- Sensor Systems
+- Technical Support
+  - Data Reporting
+  - InfluxDB Management
+  - Account Management
+  - Company Tech Stack
+  - Visitor Management System
+- Project Management
 
 **Development**
 - Supplemental Monitoring
