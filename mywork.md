@@ -11,7 +11,7 @@
 * Documentation & Trainings
 
 ## Upward Farms
-<details open>
+<details>
   <summary><strong>Contributions</summary></strong>
   <br>
   <ul>
