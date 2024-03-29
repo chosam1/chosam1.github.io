@@ -12,14 +12,16 @@
 
 ## Upward Farms
 <details open>
-  <summary>**Contributions**</summary>
+  <summary><strong>Contributions</summary></strong>
   <br>
-  * System Administration
-  * Data Reporting Support
-  * Sensor Systems
-  * Technical Support
-  * Visitor Management System
-  * Project Management
+  <ul>
+    <li>System Administration</li>
+    <li>Data Reporting Support</li>
+    <li>Sensor Systems</li>
+    <li>Technical Support</li>
+    <li>Visitor Management System</li>
+    <li>Project Management</li>
+  </ul>
 </details>
 
 **Development**
