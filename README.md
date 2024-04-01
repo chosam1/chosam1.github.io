@@ -1,3 +1,3 @@
 # My Profile
 
-This is my website creation
+Get to know me!
