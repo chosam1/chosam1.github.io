@@ -1,3 +1,3 @@
-# chosam1.github.io
+# My Profile
 
 This is my website creation
