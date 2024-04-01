@@ -60,7 +60,7 @@
   - Developed custom PWM boards
 
 
-## Images
+## Work Gallery
 ![AirQualityMonitor](./assets/img/ThirdFloorMonitor.png)
 ![ChamberStatus](./assets/img/chamberstatus.png)
 ![ChamberController](./assets/img/chambercontroller.png)
